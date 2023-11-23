@@ -8,7 +8,7 @@ PRODIGY_WD_02
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/) <br>
-<a href="http://127.0.0.1:5500/task%202/index.html /Stopwatch/"> <img src="https://svgur.com/i/iob.svg" /> </a>
+<a href="http://127.0.0.1:5500/task%202/index.html"> <img src="https://svgur.com/i/iob.svg" /> </a>
 
 ## Digital Stopwatch
 
