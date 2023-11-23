@@ -1,12 +1,12 @@
 # Stopwatch
 PRODIGY_WD_02
 <p align="center">
-<!--     <img src="https://telegra.ph/file/3447671d88b84f167456f.gif"> -->
+
 </p>
 
 # StopWatch By Kanhaiya Kumar
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-html-css-js.svg)](https://www.java.com/en/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/) <br>
 <a href="https://iamkanhaiyakumar.github.io/Stopwatch/"> <img src="https://svgur.com/i/iob.svg" /> </a>
 
