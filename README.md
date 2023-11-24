@@ -1,4 +1,4 @@
-# Stopwatch
+![image](https://github.com/iamkanhaiyakumar/Stopwatch/assets/120328606/5325abf5-fad4-48bd-b1a0-619bb2d4b580)# Stopwatch
 PRODIGY_WD_02
 <p align="center">
 
@@ -7,7 +7,7 @@ PRODIGY_WD_02
 # StopWatch By Kanhaiya Kumar
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/) <br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/iamkanhaiyakumar) <br>
 <a href="http://127.0.0.1:5500/Stopwatch/index.html"> <img src="https://svgur.com/i/iob.svg" /> </a>
 
 ## Digital Stopwatch
