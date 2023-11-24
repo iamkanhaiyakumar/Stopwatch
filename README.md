@@ -1,4 +1,4 @@
-![image](https://github.com/iamkanhaiyakumar/Stopwatch/assets/120328606/5325abf5-fad4-48bd-b1a0-619bb2d4b580)# Stopwatch
+# Stopwatch
 PRODIGY_WD_02
 <p align="center">
 
