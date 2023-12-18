@@ -1,5 +1,5 @@
 # Stopwatch
-PRODIGY_WD_02
+
 <p align="center">
 
 </p>
